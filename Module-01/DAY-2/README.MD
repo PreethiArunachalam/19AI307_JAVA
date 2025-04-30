@@ -47,6 +47,15 @@ public class Demo{
 
 ## OUTPUT:
 
+	Input	Expected	Got	
+23
+34
+true
+true
+124
+23
+false
+false
 
 
 ## RESULT:
