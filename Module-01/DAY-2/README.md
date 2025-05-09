@@ -47,6 +47,7 @@ public class Demo{
 
 ## OUTPUT:
 
+![1b](https://github.com/user-attachments/assets/852aea03-446c-45ad-a842-ecbb090deb6c)
 
 
 ## RESULT:
