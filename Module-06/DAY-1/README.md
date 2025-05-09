@@ -14,30 +14,46 @@ To create a Java Program to implement Method Local Inner Class.
 -	c) Call `display()` on `obj2` to print the outer class name
 4.	End
 
-
-
-
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a Inner Class using Java
-Developed by: 
-RegisterNumber:  
+Developed by: Preethi A A 
+RegisterNumber: 212222110035
 */
 ```
 
 ## Sourcecode.java:
-
-
-
-
-
-
+```
+class MethodLocal
+{
+    public String value = "Name given in Outer Class is Johnson";
+    public void display()
+    {
+        class Inner
+        {
+            public void print()
+            {
+                System.out.println(value);
+            }
+        }
+        Inner obj1 = new Inner();
+        obj1.print();
+    }
+}
+public class Main
+{
+    public static void main(String[]args)
+    {
+        MethodLocal obj = new MethodLocal();
+        obj.display();
+    }
+}
+```
 
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/54f24f87-d30a-44de-be17-751733337eae)
 
 
 ## RESULT:
