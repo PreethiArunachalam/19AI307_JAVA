@@ -1,8 +1,11 @@
 # Ex.No:7(E)  POLYMORPHISM
 
 ## AIM:
+
 To implement method overloading in Java to calculate the sum of two and three numbers demonstrating compile-time polymorphism
+
 ## ALGORITHM :
+
 1.	Start the program.
 2.	Create a class named SumExample.
 3.	Inside the class, define:
@@ -13,8 +16,6 @@ To implement method overloading in Java to calculate the sum of two and three nu
       b.	Call both versions of the sum() method with appropriate arguments.
       c.	Print the results.
 5.	End the program.
-
-
 
 ## PROGRAM:
  ```
