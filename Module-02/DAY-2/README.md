@@ -46,10 +46,8 @@ public class Main{
 ```
 
 ## OUTPUT:
-```
-Expected        	Got 	
-17                17
-```
+
+![Screenshot 2025-04-30 141557](https://github.com/user-attachments/assets/834be99a-0747-40ce-ac6c-345dfaa49ef7)
 
 ## RESULT:
 Thus the java program to display the addition number using private modifiers only was executed successfully.
