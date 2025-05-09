@@ -91,17 +91,8 @@ public class Main {
 ```
 
 ## OUTPUT:
-```
-	Input	              Expected	                                    Got	
-Peter                Name: PeterEmp_ID: 51Department: Accounts    Name: PeterEmp_ID: 51Department: Accounts
-51
-Accounts
 
-Fayaz               Name: FayazEmp_ID: 11Department: Software     Name: FayazEmp_ID: 11Department: Software
-11
-Software Developer
-
-```
+![Screenshot 2025-04-30 211843](https://github.com/user-attachments/assets/95876ad0-745d-41ed-bc25-ebea981359b8)
 
 ## RESULT:
 Thus the Java program to implement the inheritance concept for employee details was  executed successfully.
