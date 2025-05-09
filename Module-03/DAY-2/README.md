@@ -39,12 +39,7 @@ public class StringBufferExample3{
 
 ## OUTPUT:
 
-```
-	Input	       Expected	       Got	
-Hello         HJavalo         HJavalo
-college       cJavalege       cJavalege
-bag           bJava           bJava
-```
+![Screenshot 2025-04-30 160051](https://github.com/user-attachments/assets/84bc5f5f-9152-4730-8676-1e252986726f)
 
 ## RESULT:
 Thus the java program use append() method concatenates the given argument with this String and use stringbuffer class was executed successfully.
